@@ -1,0 +1,5 @@
+{
+  "watch": ["./main.ts"],
+  "ext": "ts",
+  "exec": "pnpm tsc ./main.ts && node ./main.js"
+}
